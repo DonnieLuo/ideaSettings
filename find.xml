@@ -14,10 +14,10 @@
       <mask>*.scss</mask>
       <mask>*.</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.java</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
