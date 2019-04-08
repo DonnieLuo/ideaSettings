@@ -15,11 +15,11 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
-      <mask>*.properties</mask>
       <mask>.</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.properties</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
