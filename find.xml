@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/apache-maven-3.3.9/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/WebApplicationInitializer.java [Maven: org.springframework:spring-web:5.1.8.RELEASE]'" />
-    <option name="defaultScopeName" value="File '~/dev/apache-maven-3.3.9/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/WebApplicationInitializer.java [Maven: org.springframework:spring-web:5.1.8.RELEASE]'" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/apache-maven-3.3.9/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/WebApplicationInitializer.java [Maven: org.springframework:spring-web:5.1.8.RELEASE]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
