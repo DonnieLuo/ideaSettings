@@ -1,0 +1,7 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Workspace/spring-cloud-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/user-info" startUpFlag="FIRST" />
+  </component>
+</application>
