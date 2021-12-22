@@ -1,0 +1,16 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Workspace/DPCrosspromotion2-BackEnd" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/JavaPlayGround" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/dp-auth-center" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/dp-scrm" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/dpcommonservice" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/dpreceiptservice" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/dpshopbackend" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/easyweb" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/source-code/rocketmq-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/spring-cloud-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspace/user-info" startUpFlag="FIRST" />
+  </component>
+</application>
