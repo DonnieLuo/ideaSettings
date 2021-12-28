@@ -26,6 +26,10 @@
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/ever-collector-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/abtest-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
