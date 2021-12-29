@@ -46,6 +46,10 @@
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/inventory-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/memo-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
