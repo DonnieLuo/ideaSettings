@@ -26,19 +26,16 @@
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/ever-collector-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/donnieluo/neet" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="donnieluo" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Dell\IdeaProjects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
   </component>
 </application>
