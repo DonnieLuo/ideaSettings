@@ -134,6 +134,14 @@
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/service-shared.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/notification-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/notification-admin-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
