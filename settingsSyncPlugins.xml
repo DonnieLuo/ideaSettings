@@ -140,6 +140,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.mallowigi.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="dev.flikas.idea.spring.boot.assistant.plugin">
           <value>
             <PluginData>
