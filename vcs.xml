@@ -27,19 +27,83 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/donnieluo/neet" />
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/abtest-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="donnieluo" />
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/profile-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/membership-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/realtime-editing-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/inventory-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/memo-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/authentication-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/wallet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/web/weibo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/file-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/discovery-audit-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/official-material-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/web/weapp.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/ever-collector-resource-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/memo-service.git" />
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/authentication-wechat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/web/wechat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/third-party-identity-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/crawler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/customized-tag-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/web/web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -87,7 +151,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/apache/dubbo.git" />
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/communication-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/oms-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/web/oms-console.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/audit-management.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -95,12 +171,13 @@
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
