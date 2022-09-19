@@ -190,6 +190,10 @@
           <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/work-wechat-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://source.test1.bj.yxops.net/scm/ms/chart-note-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
@@ -201,7 +205,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
