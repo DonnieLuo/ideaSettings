@@ -5,6 +5,12 @@
         <option value="com.intellij.bigdatatools" />
         <option value="aws.toolkit" />
         <option value="com.haulmont.jpab" />
+        <option value="com.jetbrains.jax.ws" />
+        <option value="com.intellij.gwt" />
+        <option value="com.intellij.guice" />
+        <option value="com.jetbrains.jax.ws" />
+        <option value="com.intellij.gwt" />
+        <option value="com.intellij.guice" />
       </list>
     </option>
   </component>
