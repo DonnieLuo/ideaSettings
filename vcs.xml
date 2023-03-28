@@ -250,9 +250,13 @@
           <option name="url" value="ssh://git@source.test1.bj.yxops.net:7999/ms/springboot-microservice-lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/donnieluo/mall4cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/YX" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/java-demos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
