@@ -1,0 +1,10 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="test@userDefined" key=".test" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="void" />
+      </conditions>
+      <template name="fakeKey" value="@Test&#10;public void test() {&#10;        &#10;}" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
