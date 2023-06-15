@@ -254,9 +254,17 @@
           <option name="url" value="https://gitee.com/donnieluo/mall4cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.lianjia.com/home/home-trusteeship-house.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.lianjia.com" />
+          <option name="userName" value="luodongliang001" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/java-demos" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/ke" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
